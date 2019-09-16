@@ -21,3 +21,6 @@ Although the formula is usually applied to calculate the intrinsic value of stoc
 
 Division by y is applied because the original formula is dated. 
 
+EPS conversion to adjust for currency: https://goodcalculators.com/earnings-per-share-eps-calculator/
+
+
