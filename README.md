@@ -11,7 +11,7 @@ Interest in value investing has suddenly dwindled in recent years. Traditional i
 
 The project is missing data sets which can be exported and loaded through the Terminal. 
 
-type ```appportal``` and download Alpaca's Pro API and export any currency forecast to the project directory, and rename it as dataset.csv
+type ```appportal``` and download Alpaca's Pro API and export any currency forecast to the project directory, and rename it to dataset.csv
 
 ### Graham's Formula
 
