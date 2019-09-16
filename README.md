@@ -3,7 +3,7 @@ A web app that computes the correlation between Alpaca API's forecasts and Graha
 
 ### Motivation
 
-Interest in value investing has suddenly dwindled in recent years. Traditional investing regime of yore has been supplanted by modern quants exploiting data science techniques and prompting ML research. But, the same techniques can also be applied to models built from traditional formulas. Whether they yield the same results or not is what the project verifies. 
+Interest in value investing has suddenly dwindled in recent years. Traditional investing regime of yore has been supplanted by modern quants exploiting data science techniques and prompting ML research. But, the same techniques can also be applied to models built from traditional formulas. Whether they yield the same results or not is what motivates this project.
 
 #### Note: Alpaca's API currently supports only limited assets: https://financefeeds.com/fintech-firm-alpaca-launches-alpacaforecast-ai-prediction-matrix-bloomberg-users/.
 
