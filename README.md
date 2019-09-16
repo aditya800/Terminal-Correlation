@@ -7,4 +7,4 @@ A web app that computes the correlation between Alpaca API's forecasts and Graha
 
 The project is missing data sets which can be exported and loaded through the Terminal. 
 
-```appportal``` should 
+type ```appportal``` and download Alpaca's Pro API and export any currency forecast to the project directory, and rename it as dataset.csv
